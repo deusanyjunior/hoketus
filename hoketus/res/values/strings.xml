@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hoketus</string>
+    <string name="action_browse">Browse</string>
+    <string name="button_client">Start Client</string>
+    <string name="button_server">Start Server</string>
+    <string name="button_user">User</string>
+    <string name="button_speaker">Speaker</string>
+    <string name="title_activity_hoketus_speaker_select">HoketusSpeakerSelectActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_hoketus0">Hoketus Speaker 0</string>
+    <string name="button_hoketus1">Hoketus Speaker 1</string>
+    <string name="button_hoketus2">Hoketus Speaker 2</string>
+    <string name="button_hoketus3">Hoketus Speaker 3</string>
+    <string name="title_activity_hoketus">HoketusActivity</string>
+
+</resources>
